@@ -1,4 +1,4 @@
-# EXPERIMENT - 18
+# EXPERIMENT - 19
 
 ## Aim:
 To study and implement queue in c++
@@ -7,8 +7,7 @@ To study and implement queue in c++
 Vs code
 
 ## Theory: 
-Queues are a type of container adaptors that operate in a first in first out (FIFO) type of arrangement. Elements are inserted at the back (end) and are deleted from the front. Queues use an encapsulated object of deque or list (sequential container class) as its underlying container, providing a specific set of member functions to access its elements.
-The queue data structure follows the FIFO (First In First Out) principle where elements that are added first will be removed first.
+Queues are a type of container adaptors that operate on a first-in, first-out (FIFO) basis. Elements are inserted at the back (end) and deleted from the front. Queues use an encapsulated object of deque or list (sequential container class) as their underlying container, providing a specific set of member functions to access their elements. structure follows the FIFO (First In First Out) principle where added elements will be removed first.
 
 ## Comparison of Queues and Stacks
 
@@ -159,10 +158,8 @@ int main() {
 ## Outputs :
 
 ### 1.
-
-
+![Screenshot 2024-10-09 094614](https://github.com/user-attachments/assets/72a763f4-0d65-41ae-adcf-dbff43bd96e5)
 ### 2.
-
-
+![Screenshot 2024-10-09 094713](https://github.com/user-attachments/assets/e16b3d4d-3927-499c-8a30-2791a47c0a48)
 ## Conclusion :
 Queues are fundamental data structures that operate on a first-in, first-out (FIFO) principle, allowing for efficient management of tasks and resources in various applications. They are crucial in computer science, telecommunications, and operations management, providing a systematic way to handle sequential data. By understanding the characteristics and behaviors of queues, such as enqueueing and dequeueing processes, we can optimize performance and ensure smoother operations in both software and real-world scenarios. Their versatility makes them invaluable for implementing algorithms and managing workflows effectively
